@@ -1,9 +1,7 @@
 # Welcome to Taekwondodev's Page👨🏻‍💻
 
 ## Languages & Technlogies
-<p align="center">
 <img src="https://skillicons.dev/icons?i=go,java,swift,ts,js,c,cpp,html,css,bash,spring,postgres,mongodb,kafka,redis,docker,aws,git,github" alt="Language and Tools" style="border-radius: 10px;"/>
-</p>
 
 ## Specializations & Expertise
 ![Backend Development](https://img.shields.io/badge/Backend_Development-Expert-FF6B6B?style=flat-square)
