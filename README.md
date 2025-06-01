@@ -35,8 +35,8 @@
 ![RESTful Architecture](https://img.shields.io/badge/RESTful_Architecture-Expert-009688?style=flat-square)
 ![Client-Server](https://img.shields.io/badge/Client--Server-Advanced-4CAF50?style=flat-square)
 ![P2P Networks](https://img.shields.io/badge/P2P_Networks-Advanced-FF6B6B?style=flat-square)
-![Security](https://img.shields.io/badge/Security-Advanced-FF9800?style=flat-square)
-![End-to-End Encryption](https://img.shields.io/badge/E2E_Encryption-Advanced-FF9800?style=flat-square)
+![Security](https://img.shields.io/badge/Security-Expert-FF9800?style=flat-square)
+![End-to-End Encryption](https://img.shields.io/badge/E2E_Encryption-Expert-FF9800?style=flat-square)
 ![Blockchain](https://img.shields.io/badge/Blockchain-Advanced-9C27B0?style=flat-square)
 ![Mobile Development](https://img.shields.io/badge/Mobile_Development-Intermediate-607D8B?style=flat-square)
 
