@@ -2,8 +2,7 @@
 
 ## Languages & Technlogies
 
-<img src="https://skillicons.dev/icons?i=go,java,swift,ts,js,c,c++,html,css,bash" />
-<img src="https://skillicons.dev/icons?i=spring,postgres,mongodb,kafka,docker,git,github" />
+<img src="https://skillicons.dev/icons?i=go,java,swift,ts,js,c,cpp,html,css,bash,spring,postgres,mongodb,kafka,redis,docker,aws,git,github" />
 
 ## Specializations & Expertise
 ![Backend Development](https://img.shields.io/badge/Backend_Development-Expert-FF6B6B?style=flat-square)
