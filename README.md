@@ -78,14 +78,6 @@
 
 </div>
 
-## Activity Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=taekwondodev&theme=react-dark&hide_border=true)
-
-</div>
-
 ## Specializations
 
 ![Backend Development](https://img.shields.io/badge/Backend_Development-Expert-FF6B6B?style=for-the-badge)
@@ -101,8 +93,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davide-galdiero)
 
 <div align="center">
-
-### Thanks for visiting my profile! 🙏
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
