@@ -1,8 +1,9 @@
 # Welcome to Taekwondodev's Page👨🏻‍💻
 
 ## Languages & Technlogies
-
-<img src="https://skillicons.dev/icons?i=go,java,swift,ts,js,c,cpp,html,css,bash,spring,postgres,mongodb,kafka,redis,docker,aws,git,github" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=go,java,swift,ts,js,c,cpp,html,css,bash,spring,postgres,mongodb,kafka,redis,docker,aws,git,github" alt="Language and Tools" style="border-radius: 10px;"/>
+</p>
 
 ## Specializations & Expertise
 ![Backend Development](https://img.shields.io/badge/Backend_Development-Expert-FF6B6B?style=flat-square)
@@ -15,8 +16,7 @@
 ![Mobile Development](https://img.shields.io/badge/Mobile_Development-Intermediate-607D8B?style=flat-square)
 
 ## GitHub Stats
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-<img src="https://github-readme-stats.vercel.app/api?username=taekwondodev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" style="width: calc(50% - 5px); height: auto;"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taekwondodev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: calc(50% - 5px); height: auto;"/>
-</div>
+<p align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=taekwondodev&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taekwondodev&layout=compact&theme=radical&hide_border=true" width="49%"/>
+</p>
