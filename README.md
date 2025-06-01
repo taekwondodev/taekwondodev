@@ -43,8 +43,8 @@
 ## GitHub Stats
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-<img src="https://github-readme-stats.vercel.app/api?username=taekwondodev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taekwondodev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=taekwondodev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" style="width: calc(50% - 5px); height: auto;"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taekwondodev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: calc(50% - 5px); height: auto;"/>
 </div>
 
 ## Connect with Me
